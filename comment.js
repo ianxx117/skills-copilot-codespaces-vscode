@@ -55,4 +55,4 @@ app.post('/updateComment', urlencodedParser, function(req, res) {
     })
 })
 //listen port
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+app.listen(port, () => console.log(`Examp app listening on port ${port}!`))
